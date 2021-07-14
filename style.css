@@ -5,7 +5,7 @@ h1{color:green;}
   margin: 16px;
   box-sizing: border-box;
   box-shadow: 0 2px 5px #000;
-  border-radius: 20;
+  border-radius: 20px;
   text-align: center;
   border-spacing: 20;
 }
